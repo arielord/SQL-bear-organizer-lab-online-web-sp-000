@@ -1,4 +1,4 @@
-INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES(Mr.Chocolate, NULL, NULL, NULL, NULL, NULL)
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES(Mr.Chocolate, 2, male, brown, docile, true)
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES(Rowdy, NULL, NULL, NULL, NULL, NULL)
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES(Tabitha, NULL, NULL, NULL, NULL, NULL)
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES(Sergeant Brown, NULL, NULL, NULL, NULL, NULL)
